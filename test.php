@@ -1,3 +1,5 @@
 <?php
-echo 'fsdfs'; die;
+echo 'fsdfs'; 
+
+
 ?>
